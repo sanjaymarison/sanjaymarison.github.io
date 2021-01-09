@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sanjaymarison.github.io
+Token: c38607b56f28544707802dbf3ae80c55f79267bd821043e5db8fa22b62be345a
